@@ -1,3 +1,8 @@
-Repositorio para la clase de BDR de la MCD.
+# Clase BDR | MCD
+###### Alberto Benavides
 
-Eso es todo.
+Curso de la **Maestría en Ciencia de Datos** de la [Universidad Autónoma de Nuevo León](https://uanl.mx).
+
+- Clase 1
+- Clase 2
+- Clase 3
