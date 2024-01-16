@@ -6,3 +6,4 @@ Curso de la **Maestría en Ciencia de Datos** de la [Universidad Autónoma de Nu
 - [Tarea 1](./Clase%201/tarea%201.md)
 - Tarea 2
 - Tarea 3
+- Tarea 4
